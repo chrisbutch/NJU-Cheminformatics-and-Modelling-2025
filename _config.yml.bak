@@ -1,0 +1,9 @@
+header:
+  show_title: false
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+plugins:
+  - jekyll-include-cache
+  - jekyll-titles-from-headings
+  
+# Custom CSS
+css: "https://chrisbutch.github.io/NJU-AI-For-Medicine-Fall-2024/assets/custom.css"

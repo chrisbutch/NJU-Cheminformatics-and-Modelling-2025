@@ -33,7 +33,7 @@ This course provides a comprehensive introduction to cheminformatics and molecul
 
 ### Class 1: Introduction to Cheminformatics and Overview of Representations: SMILES, Fingerprints, and Graphs 
 - **Slides**: [View Slides](https://box.nju.edu.cn/f/72883ca001e049999d14/)
-- **Recording**: [Download Recording](#)
+- **Recording**: [Download Recording](https://box.nju.edu.cn/f/4f3239abe9d54fcb9308/)
 - **Homework**: [Assignment 1](https://www.kaggle.com/code/chrisbutch/nju-cheminformatics-and-modelling-class-1)
 - **Required Reading**: [Applied Chemoinformatics - Chapter 1](https://box.nju.edu.cn/f/cd371af3992a4c22b503/)
 - **Suggested Reading**: [Willett - Chemoinformatics: a history](https://box.nju.edu.cn/f/cd371af3992a4c22b503/)

@@ -16,16 +16,16 @@ This course provides a comprehensive introduction to cheminformatics and molecul
 ## Class Topics:
 
 ### 1. Molecular Representations and Chemical Space
-    Introduction to cheminformatics, molecular representations (SMILES, fingerprints, graphs), and chemical databases. Explore similarity searches and the concept of chemical space.
+  Introduction to cheminformatics, molecular representations (SMILES, fingerprints, graphs), and chemical databases. Explore similarity searches and the concept of chemical space.
 
 ### 2. Structure-Activity Relationships and Property Prediction
-    Study structure-activity relationships (SAR) and QSAR modeling. Learn how machine learning can be used to predict molecular properties and ADMET characteristics.
+  Study structure-activity relationships (SAR) and QSAR modeling. Learn how machine learning can be used to predict molecular properties and ADMET characteristics.
 
 ### 3. 3D Molecular Modeling and Docking
-    Explore 3D molecular modeling, protein-ligand docking, and conformational analysis to predict molecular interactions and binding affinities.
+  Explore 3D molecular modeling, protein-ligand docking, and conformational analysis to predict molecular interactions and binding affinities.
 
 ### 4. Ligand-Based Drug Design
-    Techniques for ligand-based drug design, including fragment-based approaches, bioisosteres, and scaffold hopping for optimizing molecular frameworks.
+  Techniques for ligand-based drug design, including fragment-based approaches, bioisosteres, and scaffold hopping for optimizing molecular frameworks.
 
 ---
 

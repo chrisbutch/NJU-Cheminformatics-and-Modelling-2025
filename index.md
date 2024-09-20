@@ -143,5 +143,5 @@ This course provides a comprehensive introduction to cheminformatics and molecul
 
 ## Additional Resources:
 - [Course Syllabus](https://box.nju.edu.cn/f/5c214d397fda4d0fbd78/)
-- [Project Guidelines](https://box.nju.edu.cn/f/d693b1bfbe8544ffadba/)
+- [Project Guidelines](https://box.nju.edu.cn/f/141c396eb52a4a19b10e/)
 - [FAQ](https://chrisbutch.github.io/NJU-Cheminformatics-and-Modelling-2024/faq)

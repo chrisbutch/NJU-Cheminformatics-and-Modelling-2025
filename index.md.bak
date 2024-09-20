@@ -14,17 +14,18 @@ title: Nanjing University - Cheminformatics and Modelling (19003220 / 083100D01)
 This course provides a comprehensive introduction to cheminformatics and molecular modeling, with a focus on practical applications for drug discovery and new compound design. Students will explore essential concepts such as molecular representations, SAR/QSAR modeling, machine learning for property prediction, and advanced techniques like 3D molecular modeling, molecular dynamics simulations, and protein-ligand docking. In addition to learning theoretical principles, students will be expected to implement these methods in real-world scenarios, applying computational tools to design and optimize novel compounds. The hands-on nature of the course ensures that students not only understand the science behind these techniques but also gain the skills necessary to innovate in the field of drug discovery and materials science.
 
 ## Class Topics:
-### 1. Drug Design Challenges and Molecular Representations
-- Major challenges, SMILES, fingerprint classifiers, and problem types in medicine.
 
-### 2. Machine Learning Models
-- Classifiers, evaluation metrics, graph-based models, and ChemProp.
+### 1. Molecular Representations and Chemical Space
+    Introduction to cheminformatics, molecular representations (SMILES, fingerprints, graphs), and chemical databases. Explore similarity searches and the concept of chemical space.
 
-### 3. Advanced AI in Drug Design
-- Chemical space embeddings, large language models (LLMs), and 3D generative models.
+### 2. Structure-Activity Relationships and Property Prediction
+    Study structure-activity relationships (SAR) and QSAR modeling. Learn how machine learning can be used to predict molecular properties and ADMET characteristics.
 
-### 4. Integration and Application
-- Midterm project, protein featurization, and integration of ML/DL techniques.
+### 3. 3D Molecular Modeling and Docking
+    Explore 3D molecular modeling, protein-ligand docking, and conformational analysis to predict molecular interactions and binding affinities.
+
+### 4. Ligand-Based Drug Design
+    Techniques for ligand-based drug design, including fragment-based approaches, bioisosteres, and scaffold hopping for optimizing molecular frameworks.
 
 ---
 

@@ -29,6 +29,13 @@ This course provides a comprehensive introduction to cheminformatics and molecul
 
 ---
 
+# Turn in Your Homework
+- [Upload Here](https://box.nju.edu.cn/u/d/c6ece9167735400887ac/)
+- **Format**: Name - Student Number - HW# .pdf / .ipynb
+- **Example**: Prof.Chris-12345678-HW1.pdf 
+
+
+---
 ## Course Schedule
 
 ### Class 1: Introduction to Cheminformatics and Overview of Representations: SMILES, Fingerprints, and Graphs 

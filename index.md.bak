@@ -48,12 +48,12 @@ This course provides a comprehensive introduction to cheminformatics and molecul
 
 
 ### Class 2: Chemical Databases, Similarity Searches, and Understanding Chemical Space 
-<!-- 
-- **Slides**: [Download Slides](#)
+- **Slides**: [Download Slides](https://box.nju.edu.cn/f/1f45b5d8852e42e98430/)
 - **Recording**: [Watch Recording](#)
-- **Homework**: [Assignment 2](#)
-- **Readings**: [Required Reading](#)
--->
+- **Homework**: None - [Example Similarity and Embedding Code](https://www.kaggle.com/code/chrisbutch/nju-cheminformatics-and-modelling-class-2)
+- **Readings**: [Suggested Reading - We need better Benchmarks](http://practicalcheminformatics.blogspot.com/2023/08/we-need-better-benchmarks-for-machine.html
+)
+
 
 ### Class 3: Structure-Activity Relationships (SAR) and QSAR Modeling 
 <!-- 

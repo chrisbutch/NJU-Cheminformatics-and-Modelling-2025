@@ -41,7 +41,7 @@ This course provides a comprehensive introduction to cheminformatics and molecul
 ### Class 1: Introduction to Cheminformatics and Overview of Representations: SMILES, Fingerprints, and Graphs 
 - **Slides**: [View Slides](https://box.nju.edu.cn/f/72883ca001e049999d14/)
 - **Recording**: [Download Recording](https://box.nju.edu.cn/f/4f3239abe9d54fcb9308/)
-- **Homework**: [Assignment 1](https://www.kaggle.com/code/chrisbutch/nju-cheminformatics-and-modelling-class-1)
+- **Homework**: [Assignment 1 - Working with Chemical Descriptors](https://www.kaggle.com/code/chrisbutch/nju-cheminformatics-and-modelling-class-1)
 - **Required Reading**: [Applied Chemoinformatics - Chapter 1](https://box.nju.edu.cn/f/cd371af3992a4c22b503/)
 - **Suggested Reading**: [Willett - Chemoinformatics: a history](https://box.nju.edu.cn/f/cd371af3992a4c22b503/)
 
@@ -49,19 +49,17 @@ This course provides a comprehensive introduction to cheminformatics and molecul
 
 ### Class 2: Chemical Databases, Similarity Searches, and Understanding Chemical Space 
 - **Slides**: [Download Slides](https://box.nju.edu.cn/f/1f45b5d8852e42e98430/)
-- **Recording**: [Watch Recording](#)
+- **Recording**: [Watch Recording](https://box.nju.edu.cn/f/6740c5678e4e4d80af3e/)
 - **Homework**: None - [Example Similarity and Embedding Code](https://www.kaggle.com/code/chrisbutch/nju-cheminformatics-and-modelling-class-2)
-- **Readings**: [Suggested Reading - We need better Benchmarks](http://practicalcheminformatics.blogspot.com/2023/08/we-need-better-benchmarks-for-machine.html
-)
+- **Suggested Reading**:  [Pat Walters -  We need better Benchmarks](https://box.nju.edu.cn/f/69e086e58a5b4cefa5ab/)
 
 
-### Class 3: Structure-Activity Relationships (SAR) and QSAR Modeling 
-<!-- 
-- **Slides**: [Download Slides](#)
-- **Recording**: [Watch Recording](#)
-- **Homework**: [Assignment 2](#)
-- **Readings**: [Required Reading](#)
--->
+### Class 3: Structure-Activity Relationships (SAR) and QSAR Modeling  
+- **Slides**: [Download Slides](https://box.nju.edu.cn/f/b13c47addef64e8ca5a6/)
+- **Recording**: [Watch Recording](https://box.nju.edu.cn/f/47c6e093798d499faebf/)
+- **Homework**: [Assignment 2 - Building and Regularizing a Model of Solubility](https://www.kaggle.com/code/chrisbutch/nju-cheminformatics-and-modelling-class-3)
+- **Suggested Reading**: [QSAR - A Practical Approach - Chapter 7](https://box.nju.edu.cn/f/e41a09f30d5140a9889b/)
+
 
 ### Class 4: Machine Learning for Molecular Property Prediction
 <!-- 

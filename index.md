@@ -62,12 +62,13 @@ This course provides a comprehensive introduction to cheminformatics and molecul
 
 
 ### Class 4: Machine Learning for Molecular Property Prediction
-<!-- 
-- **Slides**: [Download Slides](#)
-- **Recording**: [Watch Recording](#)
-- **Homework**: [Assignment 2](#)
-- **Readings**: [Required Reading](#)
--->
+- **Slides**: [Download Slides](https://box.nju.edu.cn/f/e0064e441e554d9eae0e/)
+- **Recording**: [Watch Recording](https://box.nju.edu.cn/f/e0064e441e554d9eae0e/)
+- **Homework**: [Assignment 3 - Building a Machine Learned IC50 Model](https://www.kaggle.com/code/chrisbutch/nju-cheminformatics-and-modelling-class-4/)
+- **Suggested Readings**: 
+  - [Tayyebi, Arash, et al. "Prediction of organic compound aqueous solubility using machine learning..." Journal of Cheminformatics](https://box.nju.edu.cn/f/33d35c3bd35d4db9803d/)
+  - [Tian, Yujia, et al. "Prediction of bioactivities of microsomal prostaglandin E2 synthase inhibitors..." Chemical Biology & Drug Design](https://box.nju.edu.cn/f/e0064e441e554d9eae0e/)
+  - [Kato, Rintaro, et al. "Development and validation of PAMPA-BBB QSAR model..." Frontiers in Pharmacology](https://box.nju.edu.cn/f/e0064e441e554d9eae0e/)
 
 ### Class 5: Chemical Reaction Modeling, Virtual Screening, and Retrosynthes
 <!-- 

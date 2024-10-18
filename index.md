@@ -70,12 +70,13 @@ This course provides a comprehensive introduction to cheminformatics and molecul
   - [Kato, Rintaro, et al. "Development and validation of PAMPA-BBB QSAR model..." Frontiers in Pharmacology](https://box.nju.edu.cn/f/e0064e441e554d9eae0e/)
 
 ### Class 5: Chemical Reaction Modeling, Virtual Screening, and Retrosynthes
-<!-- 
-- **Slides**: [Download Slides](#)
-- **Recording**: [Watch Recording](#)
-- **Homework**: [Assignment 2](#)
-- **Readings**: [Required Reading](#)
--->
+
+- **Slides**: [Download Slides](https://box.nju.edu.cn/f/c4b1dfd911ff4985a695/)
+- **Recording**: [Watch Recording](https://box.nju.edu.cn/f/03d27a1eeb044368b7e8/)
+- **Homework**: [Assignment 4](https://www.kaggle.com/code/chrisbutch/nju-cheminformatics-and-modelling-class-5/)
+- **Suggested Readings**: 
+  - [Sadybekov, A.V., Katritch, V. Computational approaches streamlining drug discovery. Nature](https://box.nju.edu.cn/f/60f61d46eb7d43538837/)
+  
 
 ### Class 6: Predicting ADMET Properties (Absorption, Distribution, Metabolism, Excretion, and Toxicity) 
 <!-- 

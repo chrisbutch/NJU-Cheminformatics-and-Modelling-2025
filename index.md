@@ -47,21 +47,21 @@ This course provides a comprehensive introduction to cheminformatics and molecul
 
 
 ### Class 2: Chemical Databases, Similarity Searches, and Understanding Chemical Space 
-- **Slides**: [Download Slides](https://box.nju.edu.cn/f/1f45b5d8852e42e98430/)
+- **Slides**: [View Slides](https://box.nju.edu.cn/f/1f45b5d8852e42e98430/)
 - **Recording**: [Watch Recording](https://box.nju.edu.cn/f/6740c5678e4e4d80af3e/)
 - **Homework**: None - [Example Similarity and Embedding Code](https://www.kaggle.com/code/chrisbutch/nju-cheminformatics-and-modelling-class-2)
 - **Suggested Reading**:  [Pat Walters -  We need better Benchmarks](https://box.nju.edu.cn/f/69e086e58a5b4cefa5ab/)
 
 
 ### Class 3: Structure-Activity Relationships (SAR) and QSAR Modeling  
-- **Slides**: [Download Slides](https://box.nju.edu.cn/f/b13c47addef64e8ca5a6/)
+- **Slides**: [View Slides](https://box.nju.edu.cn/f/b13c47addef64e8ca5a6/)
 - **Recording**: [Watch Recording](https://box.nju.edu.cn/f/47c6e093798d499faebf/)
 - **Homework**: [Assignment 2 - Building and Regularizing a Model of Solubility](https://www.kaggle.com/code/chrisbutch/nju-cheminformatics-and-modelling-class-3)
 - **Suggested Reading**: [QSAR - A Practical Approach - Chapter 7](https://box.nju.edu.cn/f/e41a09f30d5140a9889b/)
 
 
 ### Class 4: Machine Learning for Molecular Property Prediction
-- **Slides**: [Download Slides](https://box.nju.edu.cn/f/e0064e441e554d9eae0e/)
+- **Slides**: [View Slides](https://box.nju.edu.cn/f/e0064e441e554d9eae0e/)
 - **Recording**: [Watch Recording](https://box.nju.edu.cn/f/e0064e441e554d9eae0e/)
 - **Homework**: [Assignment 3 - Building a Machine Learned IC50 Model](https://www.kaggle.com/code/chrisbutch/nju-cheminformatics-and-modelling-class-4/)
 - **Suggested Readings**: 
@@ -71,24 +71,25 @@ This course provides a comprehensive introduction to cheminformatics and molecul
 
 ### Class 5: Chemical Reaction Modeling, Virtual Screening, and Retrosynthes
 
-- **Slides**: [Download Slides](https://box.nju.edu.cn/f/c4b1dfd911ff4985a695/)
+- **Slides**: [View Slides](https://box.nju.edu.cn/f/c4b1dfd911ff4985a695/)
 - **Recording**: [Watch Recording](https://box.nju.edu.cn/f/03d27a1eeb044368b7e8/)
 - **Homework**: [Assignment 4](https://www.kaggle.com/code/chrisbutch/nju-cheminformatics-and-modelling-class-5/)
 - **Suggested Readings**: 
   - [Sadybekov, A.V., Katritch, V. Computational approaches streamlining drug discovery. Nature](https://box.nju.edu.cn/f/60f61d46eb7d43538837/)
   
 
-### Class 6: Predicting ADMET Properties (Absorption, Distribution, Metabolism, Excretion, and Toxicity) 
-<!-- 
-- **Slides**: [Download Slides](#)
-- **Recording**: [Watch Recording](#)
-- **Homework**: [Assignment 2](#)
-- **Readings**: [Required Reading](#)
--->
+### Class 6: 3D Molecular Modeling and Conformational Analysis
 
-### Class 7: 3D Molecular Modeling and Conformational Analysis 
+- **Slides**: [View Slides](https://box.nju.edu.cn/f/b0c34ab1f91a4032b5a3/](#))
+- **Recording**: [Watch Recording](https://box.nju.edu.cn/f/507f13455ae344be87d3/)
+- **Homework**: [Assignment 5 - Generating and Comparing Conformers](https://www.kaggle.com/code/chrisbutch/nju-cheminformatics-and-modelling-class-56)
+- **Suggested Readings**: 
+  - [McNutt et al.,  Conformer Generation for Structure-Based Drug Design: How Many and How Good?. JCIM 2023](https://box.nju.edu.cn/f/60f61d46eb7d43538837/)
+
+
+### Class 7:  Predicting ADMET Properties (Absorption, Distribution, Metabolism, Excretion, and Toxicity) 
 <!-- 
-- **Slides**: [Download Slides](#)
+- **Slides**: [View Slides](#)
 - **Recording**: [Watch Recording](#)
 - **Homework**: [Assignment 2](#)
 - **Readings**: [Required Reading](#)
@@ -96,7 +97,7 @@ This course provides a comprehensive introduction to cheminformatics and molecul
 
 ### Class 8: Protein-Ligand Docking  
 <!-- 
-- **Slides**: [Download Slides](#)
+- **Slides**: [View Slides](#)
 - **Recording**: [Watch Recording](#)
 - **Homework**: [Assignment 2](#)
 - **Readings**: [Required Reading](#)
@@ -104,7 +105,7 @@ This course provides a comprehensive introduction to cheminformatics and molecul
 
 ### Class 9: Pharmacophore Models  
 <!-- 
-- **Slides**: [Download Slides](#)
+- **Slides**: [View Slides](#)
 - **Recording**: [Watch Recording](#)
 - **Homework**: [Assignment 2](#)
 - **Readings**: [Required Reading](#)
@@ -112,7 +113,7 @@ This course provides a comprehensive introduction to cheminformatics and molecul
 
 ### Class 10: Molecular Dynamics Simulations  
 <!-- 
-- **Slides**: [Download Slides](#)
+- **Slides**: [View Slides](#)
 - **Recording**: [Watch Recording](#)
 - **Homework**: [Assignment 2](#)
 - **Readings**: [Required Reading](#)
@@ -120,7 +121,7 @@ This course provides a comprehensive introduction to cheminformatics and molecul
 
 ### Class 11: Protein Structure Prediction and Modeling 
 <!-- 
-- **Slides**: [Download Slides](#)
+- **Slides**: [View Slides](#)
 - **Recording**: [Watch Recording](#)
 - **Homework**: [Assignment 2](#)
 - **Readings**: [Required Reading](#)
@@ -128,7 +129,7 @@ This course provides a comprehensive introduction to cheminformatics and molecul
 
 ### Class 12: Ligand-Based Drug Design: Fragment-Based Approaches, Bioisosteres, and Scaffold Hopping 
 <!-- 
-- **Slides**: [Download Slides](#)
+- **Slides**: [View Slides](#)
 - **Recording**: [Watch Recording](#)
 - **Homework**: [Assignment 2](#)
 - **Readings**: [Required Reading](#)
@@ -136,7 +137,7 @@ This course provides a comprehensive introduction to cheminformatics and molecul
 
 ### Class 13: Quantum Chemical Methods and Density Functional Theory (DFT) 
 <!-- 
-- **Slides**: [Download Slides](#)
+- **Slides**: [View Slides](#)
 - **Recording**: [Watch Recording](#)
 - **Homework**: [Assignment 2](#)
 - **Readings**: [Required Reading](#)

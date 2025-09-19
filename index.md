@@ -150,7 +150,7 @@ This course provides a comprehensive introduction to cheminformatics and molecul
 
 ---
 
-
+ 
 ## Additional Resources:
 - [Course Syllabus](https://box.nju.edu.cn/f/f136a0eaa23d45a79c10/)
 - [Project Guidelines](https://box.nju.edu.cn/f/141c396eb52a4a19b10e/)

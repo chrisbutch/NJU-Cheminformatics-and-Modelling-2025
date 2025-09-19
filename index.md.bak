@@ -87,13 +87,11 @@ This course provides a comprehensive introduction to cheminformatics and molecul
   - [McNutt et al.,  Conformer Generation for Structure-Based Drug Design: How Many and How Good?. JCIM 2023](https://box.nju.edu.cn/f/60f61d46eb7d43538837/)
 
 
-### Class 7:  Predicting ADMET Properties (Absorption, Distribution, Metabolism, Excretion, and Toxicity) 
-<!-- 
-- **Slides**: [View Slides](#)
-- **Recording**: [Watch Recording](#)
-- **Homework**: [Assignment 2](#)
-- **Readings**: [Required Reading](#)
--->
+### Class 7:  Review of Ligand Based Drug Design, Intro to Structure Based Drug Design 
+- **Video**: [Fundamentals of Ligand Based Drug Design by OpenEye](https://box.nju.edu.cn/f/c5ede4afffd442909f82/)
+- **Exercise**: [Running your First Docking Analysis with Chimera and AutoDock Vina](https://box.nju.edu.cn/f/ae5f08d1427440f3ad19/)
+- **Readings**: [A practical guide to large-scale docking](https://box.nju.edu.cn/f/2087d28086c3469795da/)
+
 
 ### Class 8: Protein-Ligand Docking  
 <!-- 

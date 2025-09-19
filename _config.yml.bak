@@ -6,4 +6,4 @@ plugins:
   - jekyll-titles-from-headings
   
 # Custom CSS
-css: "https://chrisbutch.github.io/NJU-AI-For-Medicine-Fall-2024/assets/custom.css"
+css: "https://chrisbutch.github.io/NJU-Cheminformatics-and-Modelling-2024/assets/custom.css"

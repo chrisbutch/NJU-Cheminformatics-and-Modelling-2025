@@ -2,7 +2,7 @@
 header:
   image: /assets/banner.png
   overlay: true
-  caption: "Nanjing University - Cheminformatics and Modelling - Fall 2024"
+  caption: "Nanjing University - Cheminformatics and Modelling - Fall 2025"
   alt: "Cheminformatics and Modelling"
   show_title: false
 classes: wide

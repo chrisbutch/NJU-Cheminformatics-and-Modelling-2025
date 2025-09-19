@@ -8,6 +8,7 @@ header:
   show_title: false
 classes: wide
 no_toc: true 
+title: Frequently Asked Questions (FAQ)
 ---
 
 ### **How often is the class offered?**

@@ -7,7 +7,7 @@ header:
   show_title: false
 classes: wide
 no_toc: true 
-title: Nanjing University - Cheminformatics and Modelling (19003220 / 083100D01) - Fall 2024
+title: Nanjing University - Cheminformatics and Modelling (19003220 / 083100D01) - Fall 2025
 ---
 
 
